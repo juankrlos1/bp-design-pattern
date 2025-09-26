@@ -1,0 +1,52 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+out/
+
+# VS Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+/build/
+
+# Environment
+.env
+
+# Java
+*.class
+
+# Others
+*.swp
+*.swo
+
+# Windows
+*.exe
+*.dll
+*.bat
+
+# Mac
+*.DS_Store
+
+# Linux
+*~
+
+# Application properties (if sensitive)
+# Uncomment if you want to ignore local config
+# src/main/resources/application.properties
+
